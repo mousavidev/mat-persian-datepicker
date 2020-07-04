@@ -15,6 +15,12 @@
     },
     {
       "path": "./e2e/tsconfig.json"
+    },
+    {
+      "path": "./projects/mat-persian-datepicker/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/mat-persian-datepicker/tsconfig.spec.json"
     }
 ]
 }
